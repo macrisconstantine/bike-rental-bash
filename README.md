@@ -4,3 +4,4 @@
 - The customers table lists customers with name and phone number.
 - The rentals table lists associations (rentals) between customers and bikes via respective IDs.
 - The user can 'rent' a bike after registering their name/phone number.
+- They can also return a bike which will make the bike available again.
